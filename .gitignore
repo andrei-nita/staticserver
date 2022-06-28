@@ -1,0 +1,10 @@
+### JetBrains IDE ###
+
+# User-specific stuff
+.idea
+.idea/*
+
+# Project
+.air.toml
+tmp
+
